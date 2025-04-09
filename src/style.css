@@ -21,5 +21,20 @@ main {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
+    padding: 10px;
+    font-size: 85px
+}
+
+#numbers{
+    display: flex;
+    justify-content: center;
+    font-size: 120px;
+}
+
+
+#bottom{
+    display: flex;
+    justify-content: end;
+    padding-bottom: 4px;
 }
 
