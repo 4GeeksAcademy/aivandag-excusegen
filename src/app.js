@@ -38,6 +38,7 @@ function generateRandomCard(numberArray, iconArray) {
   iconTop.innerHTML = randomIcon
   numberCenter.innerHTML = randomNumber
   iconBottom.innerHTML = randomIcon
+  
 
 }
 

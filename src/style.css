@@ -34,7 +34,13 @@ main {
 
 #bottom{
     display: flex;
-    justify-content: end;
+    justify-content:end;
+    align-items: flex-end;
     padding-bottom: 4px;
+    margin-left: auto;
 }
 
+.rotate{
+    transform: rotate(180deg);
+   
+}
